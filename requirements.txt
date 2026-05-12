@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+tensorflow
+keras
+opencv-python
+sentence-transformers
+textblob
+scikit-fuzzy
+matplotlib
+seaborn
