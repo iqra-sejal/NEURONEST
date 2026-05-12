@@ -147,25 +147,12 @@ Personalized Output (Advice + Theme + Music)
 
 ---
 
-## 📂 Project Structure
 
-```text
-NEURONEST/
-│
-├── src/
-├── datasets/
-├── images/
-├── README.md
-├── requirements.txt
-└── Project_Report.pdf
-```
-
----
 
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/NEURONEST.git
+git clone https://github.com/iqra-sejal/NEURONEST.git
 cd NEURONEST
 pip install -r requirements.txt
 python src/main_gui.py
@@ -176,13 +163,12 @@ python src/main_gui.py
 ## 📦 Model Files
 
 Large trained models are not included due to GitHub size limits.
-👉 Download from: *(Add your Google Drive link here)*
+👉 Download from:
+*(https://drive.google.com/file/d/1XdLYOxrjIR4uJkOFmpCp_TevdKNI4cUS/view?usp=drive_link)*
+
+*(https://drive.google.com/file/d/1k2CWKq51_sRztkqnQlNXyZvPYJGqDl1u/view?usp=drive_link)*
 
 ---
-
-## 📸 Screenshots
-
-
 
 ## 🔮 Future Enhancements
 
@@ -201,13 +187,7 @@ It is intended for **educational and awareness purposes only**.
 
 ---
 
-## 👩‍💻 Team
 
-* Iqra Sejal
-* Abeer Asif
-* Javeria Shahzad
-
----
 
 ## ⭐ Support
 
